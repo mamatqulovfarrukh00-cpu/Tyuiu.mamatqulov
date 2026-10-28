@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.mamatqulov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af951a21ecc496bf57b8302395ed06d5d893dc07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ebe87f8fbe2262c4493437f4ad2e4fa9e6a6067")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.mamatqulov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.mamatqulov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

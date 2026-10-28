@@ -1,24 +1,41 @@
-﻿using Tyuiu.mamatqulov.Sprint_0.Task2;
-using Tyuiu.mamatqulov.Sprint_0.Task3;
-
-namespace Tyuiu.mamatqulov
+﻿namespace Tyuiu.mamatqulov
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("🌿 Спринт #0: Управление садом 🌿\n");
+            while (true)
+            {
+                Console.Clear();
+                Console.WriteLine("========================================");
+                Console.WriteLine("   ВЫБОР СПРИНТА ДЛЯ ПРОВЕРКИ (Tyuiu.mamatqulov)");
+                Console.WriteLine("========================================");
+                Console.WriteLine("1. Запустить Спринт #0 (Растения / OOP Basics)");
+                Console.WriteLine("2. Запустить Спринт #1 (Инкапсуляция / Модификаторы)");
+                Console.WriteLine("0. Выход");
+                Console.WriteLine("----------------------------------------");
+                Console.Write("Выберите номер спринта: ");
 
-           
-            GardenDemo.Run();
-            
-            Console.WriteLine("\n--------------------------\n");
+                string choice = Console.ReadLine();
 
-            
-            PolymorphismTest.Run();
+                switch (choice)
+                {
+                    case "1":
+                        Sprint_0_Launcher.Run();
+                        break;
+                    case "2":
+                        Sprint_1_Launcher.Run();
+                        break;
+                    case "0":
+                        return;
+                    default:
+                        Console.WriteLine("❌ Неверный выбор. Попробуйте снова.");
+                        break;
+                }
 
-            Console.WriteLine("\n✅ Спринт успешно завершен!");
-            Console.ReadKey();
+                Console.WriteLine("\nНажмите любую клавишу для возврата в меню...");
+                Console.ReadKey();
+            }
         }
     }
 }
