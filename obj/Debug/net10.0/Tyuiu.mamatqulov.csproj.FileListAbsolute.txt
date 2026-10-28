@@ -1,0 +1,15 @@
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\bin\Debug\net10.0\Tyuiu.mamatqulov.exe
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\bin\Debug\net10.0\Tyuiu.mamatqulov.deps.json
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\bin\Debug\net10.0\Tyuiu.mamatqulov.runtimeconfig.json
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\bin\Debug\net10.0\Tyuiu.mamatqulov.dll
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\bin\Debug\net10.0\Tyuiu.mamatqulov.pdb
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\obj\Debug\net10.0\Tyuiu.mamatqulov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\obj\Debug\net10.0\Tyuiu.mamatqulov.AssemblyInfoInputs.cache
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\obj\Debug\net10.0\Tyuiu.mamatqulov.AssemblyInfo.cs
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\obj\Debug\net10.0\Tyuiu.mamatqulov.csproj.CoreCompileInputs.cache
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\obj\Debug\net10.0\Tyuiu.mamatqulov.sourcelink.json
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\obj\Debug\net10.0\Tyuiu.mamatqulov.dll
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\obj\Debug\net10.0\refint\Tyuiu.mamatqulov.dll
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\obj\Debug\net10.0\Tyuiu.mamatqulov.pdb
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\obj\Debug\net10.0\Tyuiu.mamatqulov.genruntimeconfig.cache
+C:\Users\Фарух\OneDrive\Desktop\Tyuiu.mamatqulov\Tyuiu.mamatqulov\obj\Debug\net10.0\ref\Tyuiu.mamatqulov.dll
